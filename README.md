@@ -1,7 +1,5 @@
-## Hola bienvenido 👋
-
-# 💫 About Me:
-🔭 Soy desarrollador de software<br>Tengo 12 años aproximadamente trabajando en este mundo de<br> la programacion, la mayoria de las veces trabajando en modo<br> remoto, desde mi ciudad de Salta Argentina.
+# 💫 Sobre mi:
+🔭 Soy desarrollador de software full stack <br>Tengo 12 años aproximadamente trabajando en este mundo de<br> la programacion, la mayoria de las veces trabajando en modo<br> remoto, desde mi ciudad de Salta Argentina.
 
 
 ## 🌐 Socials:
